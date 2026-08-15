@@ -2,7 +2,7 @@
 
 - Features
 
-  * Data Types
+  * Variables & Data Types
   * Enums
   * Structs
   * Interfaces
