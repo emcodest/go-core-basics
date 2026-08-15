@@ -10,6 +10,9 @@
   * Methods
   * Concurrency - Go Routines
   * Profiling
-  * Tests
+  * Testing
   * Benchmarking
+  * Working With Kafka
+  * Working with NATS & JETSTREAM
+  
     
